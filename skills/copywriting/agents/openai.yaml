@@ -1,0 +1,7 @@
+interface:
+  display_name: "Copywriting"
+  short_description: "Write direct, concrete, grounded copy"
+  default_prompt: "Use $copywriting to draft clear, direct copy for this page."
+
+policy:
+  allow_implicit_invocation: true

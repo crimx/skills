@@ -1,0 +1,7 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Pressure-test ideas before implementation"
+  default_prompt: "Use $grill-me to pressure-test this idea before implementation."
+
+policy:
+  allow_implicit_invocation: false

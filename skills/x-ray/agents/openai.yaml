@@ -1,0 +1,7 @@
+interface:
+  display_name: "X-Ray"
+  short_description: "Align drafts with a referenced writing style"
+  default_prompt: "Use $x-ray to align this draft with the referenced writing style."
+
+policy:
+  allow_implicit_invocation: false

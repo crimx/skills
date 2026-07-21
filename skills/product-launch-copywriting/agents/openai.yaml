@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Launch Copywriting"
+  short_description: "Write concise, poetic copy for product launches"
+  default_prompt: "Use $product-launch-copywriting to write a concise, poetic launch narrative for this product."
+
+policy:
+  allow_implicit_invocation: true

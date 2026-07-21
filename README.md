@@ -50,6 +50,12 @@ Keep copy direct, concrete, and grounded. `copywriting` avoids forced contrasts,
 
 It applies automatically when drafting or revising copy.
 
+#### [`product-launch-copywriting`](skills/product-launch-copywriting/SKILL.md)
+
+Write concise, poetic copy for product launches and brand reveals. `product-launch-copywriting` shapes headlines, narration, hooks, story arcs, and closing lines around one audience and one central promise.
+
+It applies automatically to product launch narratives and composes with the general `copywriting` guidelines.
+
 ## License
 
 [MIT](LICENSE)

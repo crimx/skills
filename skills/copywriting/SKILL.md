@@ -19,8 +19,8 @@ Write for the reader's immediate question, task, or decision. Make the copy dire
 - Name the actual object, action, problem, outcome, or constraint.
 - Prefer plain, specific words over slogans, internal abstractions, and corporate language.
 - Introduce a necessary abstraction only after grounding it in something the reader can do, see, compare, or decide.
-- Make every important factual or performance claim supportable by provided evidence, project facts, or an explicit source. Do not invent precision.
-- State meaningful limitations and uncertainty plainly. Do not hide them behind polished language.
+- Do not invent facts, figures, quotations, product capabilities, or precise details.
+- Include a limitation only when it materially affects the reader's decision or the user asks for it.
 
 ## Avoid Rhetorical Shortcuts
 
@@ -45,7 +45,7 @@ Before delivering copy, verify that:
 
 - the opening answers the reader's immediate need
 - each line communicates content rather than narrating the document
-- claims are specific, supportable, and appropriately qualified
+- the copy does not invent facts, figures, quotations, or product capabilities
 - titles and transitions do not force an artificial journey
 - no contrast, slogan, abstraction, or repetition exists only for rhetorical effect
 - the final copy sounds natural in its intended channel and language

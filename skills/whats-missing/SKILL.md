@@ -1,9 +1,9 @@
 ---
-name: grill-me
-description: Challenge and pressure-test an idea as a senior collaborator before implementation. Use when the user explicitly invokes $grill-me to expose weak assumptions, resolve high-impact decisions, assess risks and tradeoffs, and improve the proposed outcome without implementing it.
+name: whats-missing
+description: Challenge and pressure-test an idea as a senior collaborator before implementation. Use when the user explicitly invokes $whats-missing to expose weak assumptions, resolve high-impact decisions, assess risks and tradeoffs, and improve the proposed outcome without implementing it.
 ---
 
-# Grill Me
+# What's Missing
 
 Challenge this idea like a senior collaborator. Pressure-test the idea, expose weak assumptions, and drive us toward decisions that materially improve the outcome.
 
@@ -30,7 +30,7 @@ Push back when the idea is ambiguous, risky, overcomplicated, underspecified, in
 
 If the discussion becomes long, branching, or decision-heavy, pause before continuing and ask whether we should switch to Plan mode.
 
-Do not implement during this grill phase. Once the important unknowns are resolved, assumed, or deferred, summarize:
+Do not implement during this discussion. Once the important unknowns are resolved, assumed, or deferred, summarize:
 
 - agreed decisions
 - assumptions you made

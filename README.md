@@ -16,14 +16,14 @@ npx skills add crimx/skills
 
 These skills run only when called by name.
 
-#### [`grill-me`](skills/grill-me/SKILL.md)
+#### [`whats-missing`](skills/whats-missing/SKILL.md)
 
-Pressure-test an idea before implementation. `grill-me` acts like a senior collaborator: it inspects the available context, exposes weak assumptions, focuses discussion on decisions that can materially change the outcome, and pushes back on risky or needlessly complicated directions.
+Pressure-test an idea before implementation. `whats-missing` acts like a senior collaborator: it inspects the available context, exposes weak assumptions, focuses discussion on decisions that can materially change the outcome, and pushes back on risky or needlessly complicated directions.
 
-It asks one high-leverage question at a time and ends with a concise record of decisions, assumptions, risks, rejected options, and the recommended next step. It deliberately stays out of implementation during the grill phase.
+It asks one high-leverage question at a time and ends with a concise record of decisions, assumptions, risks, rejected options, and the recommended next step. It keeps the discussion focused on clarification and decision-making, without moving into implementation.
 
 ```text
-/grill-me We should rewrite the app in Rust.
+/whats-missing We should rewrite the app in Rust.
 ```
 
 #### [`x-ray`](skills/x-ray/SKILL.md)

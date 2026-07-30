@@ -1,39 +1,26 @@
 ---
 name: whats-missing
-description: Challenge and pressure-test an idea as a senior collaborator before implementation. Use when the user explicitly invokes $whats-missing to expose weak assumptions, resolve high-impact decisions, assess risks and tradeoffs, and improve the proposed outcome without implementing it.
+description: Pressure-test ideas before implementation by uncovering consequential assumptions, decisions, risks, and tradeoffs. Use for evaluating a proposed direction without implementing it.
 ---
 
 # What's Missing
 
-Challenge this idea like a senior collaborator. Pressure-test the idea, expose weak assumptions, and drive us toward decisions that materially improve the outcome.
+Inspect the available context before asking questions. Find discoverable facts in the codebase, documentation, messages, artifacts, logs, specifications, or configuration yourself.
 
-Before asking anything, inspect all available context. If the answer can be found by reading the codebase, docs, prior messages, existing artifacts, logs, specs, or configuration, do that instead of asking me.
+Before asking questions, privately map the consequential decisions, constraints, dependencies, risks, unknowns, and safe assumptions. Ask only questions whose answers could materially change the outcome, scope, UX, architecture, cost, timeline, or risk.
 
-## Decision Discipline
+Do not ask questions merely for completeness or about low-impact preferences. Make reasonable assumptions for conventional, low-risk, or easily reversible choices, and record them in the final summary.
 
-Before questioning me, privately map the important decisions, dependencies, hard constraints, risks, unknowns, and safe assumptions. Ask only high-leverage questions whose answers would materially change the direction, implementation, scope, UX, architecture, cost, timeline, risk, or tradeoffs.
+Ask one decision-focused question at a time. Frame each question around the decision it unlocks. Briefly explain why it matters, recommend an answer, and state the main tradeoff. Combine tightly coupled questions when that makes the decision clearer.
 
-Do not ask questions just to be thorough. Do not ask superficial, preference-only, or low-impact questions. For obvious, conventional, low-risk, or easily reversible decisions, make a reasonable call yourself and record the assumption for later review.
+Push back on weak premises, ambiguity, unnecessary complexity, internal contradictions, and significant risks. Explain the problem concretely and offer one or two practical paths.
 
-Ask one question at a time. Each question must include:
+If the discussion becomes long, branching, or decision-heavy, pause and ask whether to switch to Plan mode.
 
-- the decision it unlocks
-- why it matters
-- your recommended answer
-- the tradeoff or consequence of accepting your recommendation
-
-If multiple small questions are tightly coupled, combine them into one decision-focused question with clear options.
-
-Push back when the idea is ambiguous, risky, overcomplicated, underspecified, internally inconsistent, or based on a weak premise. Explain the issue concretely, then offer one or two practical paths forward.
-
-## Complexity Guardrail
-
-If the discussion becomes long, branching, or decision-heavy, pause before continuing and ask whether we should switch to Plan mode.
-
-Do not implement during this discussion. Once the important unknowns are resolved, assumed, or deferred, summarize:
+Do not implement. When the material issues are resolved, assumed, or deferred, summarize:
 
 - agreed decisions
-- assumptions you made
+- assumptions
 - open risks or deferred questions
 - rejected options
 - recommended next step

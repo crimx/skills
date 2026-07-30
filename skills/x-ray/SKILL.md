@@ -1,6 +1,6 @@
 ---
 name: x-ray
-description: Rewrite drafts to conform to an explicit or discovered editorial style through sentence, paragraph, and full-draft passes while preserving meaning. Use when the user explicitly invokes $x-ray with a draft and a named style skill, style guide, reference corpus, or publication or brand target.
+description: Rewrite drafts to conform to an explicit or discovered editorial style through sentence, paragraph, and full-draft passes while preserving meaning. Use for aligning a draft with a named style skill, style guide, reference corpus, publication, or brand.
 ---
 
 # X-Ray

@@ -5,7 +5,7 @@ description: Copywriting style guidelines. Use when drafting, rewriting, or revi
 
 # Copywriting
 
-Write for the reader's immediate question, task, or decision. Make the copy direct, concrete, calm, and precise.
+Write for the reader's immediate question, task, or decision. Sound like an experienced editor: direct, concrete, calm, and precise. Keep sentences concise without piling up concepts or straining for quotable lines.
 
 ## Start With the Reader
 
@@ -30,10 +30,10 @@ Write for the reader's immediate question, task, or decision. Make the copy dire
 - Avoid vague transformation formulas such as "from X to Y" when a concrete before-and-after statement would say more.
 - Avoid empty positioning language such as "redefine", "empower", "unlock the future", or "build a new paradigm". Replace it with a specific capability, behavior, or result.
 - Avoid ad-like hype, inflated certainty, and unearned superlatives. Let facts and useful details carry the claim.
+- Avoid overusing dashes, comma-linked clauses, and other repeated sentence patterns that make the copy feel templated.
 
 ## Shape the Copy
 
-- Make titles describe the actual subject, action, question, or outcome without overpromising.
 - Give each paragraph a clear job and advance the idea instead of circling it.
 - Preserve useful sentence-length and rhythm variation. Do not make every line sound like a slogan.
 - Remove redundant summaries, repeated signposting, and conclusions that merely restate the preceding copy.

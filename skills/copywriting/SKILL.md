@@ -19,6 +19,7 @@ Write for the reader's immediate question, task, or decision. Sound like an expe
 - Name the actual object, action, problem, outcome, or constraint.
 - Prefer plain, specific words over slogans, internal abstractions, and corporate language.
 - Introduce a necessary abstraction only after grounding it in something the reader can do, see, compare, or decide.
+- Explain capabilities the way someone who understands the product would: pair the reader-visible result with enough of the underlying mechanism to make the claim credible, without turning the copy into implementation notes or a manual.
 - Do not invent facts, figures, quotations, product capabilities, or precise details.
 - Include a limitation only when it materially affects the reader's decision or the user asks for it.
 

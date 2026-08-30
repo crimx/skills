@@ -9,7 +9,7 @@ Write for the reader's immediate question, task, or decision. Sound like an expe
 
 ## Start With the Reader
 
-- Lead with the information the reader came for. Remove throat-clearing, process commentary, and explanations of why the copy exists.
+- Lead with the information the reader came for. Remove throat-clearing and explanations of why the copy exists.
 - Match the audience, channel, content type, and language. Use the project's established terminology when available.
 - Organize around the reader's needs rather than the writer's method or the order in which the work was produced.
 - Keep the response proportional to the task. Do not repeat an introduction in later sections or restate points that are already clear.
@@ -28,13 +28,15 @@ State the section's promise in the headline. In the supporting copy, connect the
 
 ## Avoid Rhetorical Shortcuts
 
-- Do not use forced contrast patterns like "not..., but..." just to sound insightful or create a false correction. Prefer positive, direct phrasing unless the reader genuinely has a mistaken expectation that needs to be corrected.
-- Avoid meta-narration, such as describing the document, page, section, or message instead of directly communicating the content to the reader.
-- Avoid titles that assume a fixed user journey, such as "First..., then...". Use the reader's current task, object, question, decision, or available action instead.
-- Avoid vague transformation formulas such as "from X to Y" when a concrete before-and-after statement would say more.
+- Avoid stock assistant phrases, automatic praise, and enthusiasm that the context does not support.
+- Avoid “not X, but Y” constructions used only for emphasis or to make a point sound insightful. Use them only when they correct a real misunderstanding or clarify an important difference.
+- Avoid self-talk and commentary about the writing process in the final text. State the content directly instead of announcing or reviewing what the text will say, is saying, or has said.
+- Avoid formulaic “first..., then...” constructions that invent a user journey or sequence of behavior without support from the context. Use sequential language only when the order is real and relevant.
+- Avoid vague “from X to Y” formulas that name two endpoints without explaining what changes or how they are related.
+- Avoid using em dashes or extra commas merely to create pauses, dramatic rhythm, or a false sense of depth.
+- Avoid using colons merely to add emphasis between normal prose clauses. Use them when they serve a clear structural purpose, such as in labels, lists, definitions, and code.
 - Avoid empty positioning language such as "redefine", "empower", "unlock the future", or "build a new paradigm". Replace it with a specific capability, behavior, or result.
 - Avoid ad-like hype, inflated certainty, and unearned superlatives. Let facts and useful details carry the claim.
-- Avoid overusing dashes, comma-linked clauses, and other repeated sentence patterns that make the copy feel templated.
 
 ## Shape the Copy
 
@@ -48,8 +50,6 @@ State the section's promise in the headline. In the supporting copy, connect the
 Before delivering copy, verify that:
 
 - the opening answers the reader's immediate need
-- each line communicates content rather than narrating the document
 - the copy does not invent facts, figures, quotations, or product capabilities
-- titles and transitions do not force an artificial journey
-- no contrast, slogan, abstraction, or repetition exists only for rhetorical effect
+- no slogan, abstraction, or repetition exists only for rhetorical effect
 - the final copy sounds natural in its intended channel and language

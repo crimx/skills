@@ -40,6 +40,14 @@ The target can be a style guide, a reference corpus, a publication or brand, or 
 /x-ray this draft using /brand-style.
 ```
 
+#### [`tidy`](skills/tidy/SKILL.md)
+
+Refactor code after an implementation pass. `tidy` aligns behavior with business rules and architectural ownership, replaces symptom-level patches with root-cause fixes, and removes unnecessary complexity within the current scope.
+
+```text
+/tidy the implementation we just completed.
+```
+
 ### Automatic invocation
 
 These skills may activate automatically when a request matches their scope.

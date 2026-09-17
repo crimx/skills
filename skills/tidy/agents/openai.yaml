@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tidy"
+  short_description: "Refactor for architecture, business logic, and root causes"
+  default_prompt: "Use $tidy to rework the recent implementation around architecture, business logic, and root-cause fixes."
+
+policy:
+  allow_implicit_invocation: false

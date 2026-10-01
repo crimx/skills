@@ -1,0 +1,7 @@
+interface:
+  display_name: "Stick"
+  short_description: "Make knowledge easy to remember and reconstruct"
+  default_prompt: "Use $stick to make this knowledge easy to remember with a simple, accurate explanation, pattern, association, analogy, or mnemonic."
+
+policy:
+  allow_implicit_invocation: false

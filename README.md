@@ -48,6 +48,16 @@ Refactor code after an implementation pass. `tidy` aligns behavior with business
 /tidy the implementation we just completed.
 ```
 
+#### [`stick`](skills/stick/SKILL.md)
+
+Turn supplied material into a compact structure that is easy to recall. `stick` starts with the target's core meaning or function, preserves its meaningful structure and distinctions, and adds one accurate memory cue when it improves retrieval.
+
+For commands, it reads syntax left to right and expands abbreviations. For words and terms, it checks the real origin or formation before using a mnemonic. It stops once the target can be recalled.
+
+```text
+/stick this command: rsync -avz source/ user@host:/backup/
+```
+
 ### Automatic invocation
 
 These skills may activate automatically when a request matches their scope.

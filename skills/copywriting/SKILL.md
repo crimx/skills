@@ -28,7 +28,6 @@ Write for the reader's immediate question, task, or decision. Sound like an expe
 - Prefer plain, specific words over slogans, internal abstractions, and corporate language.
 - Introduce a necessary abstraction only after grounding it in something the reader can do, see, compare, or decide.
 - Reduce adverbs that add emphasis without useful information; prefer accurate verbs and concrete nouns. Preserve modifiers that carry necessary information about time, negation, scope, frequency, degree, or certainty, and keep the original meaning when revising.
-- Do not invent facts, figures, quotations, product capabilities, or precise details.
 
 ## Avoid Rhetorical Shortcuts
 
@@ -58,6 +57,5 @@ When a narrative or scene benefits from vivid action, restrained expression, and
 Before delivering copy, verify that:
 
 - the opening answers the reader's immediate need
-- the copy preserves necessary qualifiers and does not invent facts or details
 - no slogan, abstraction, or repetition exists only for rhetorical effect
 - the chosen writing strategies suit the passages and the final copy sounds coherent and natural in its intended channel and language

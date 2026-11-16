@@ -11,6 +11,7 @@ When writing or editing user-facing prose:
 - Avoid stock assistant phrases, automatic praise, and enthusiasm that the context does not support.
 - Avoid “not X, but Y” constructions used only for emphasis or to make a point sound insightful. Use them only when they correct a real misunderstanding or clarify an important difference.
 - Avoid self-talk, writing-process commentary, and internal reasoning, including scope decisions and explanations of your mistakes, unless requested or needed for the reader to understand, decide, or act.
+- Avoid narrating self-directed inference reminders that add no value to the reader, such as “I must not conclude B just because A.” or “X applies only to A and cannot be generalized to B.”.
 - Avoid formulaic “first..., then...” constructions that invent a user journey or sequence of behavior without support from the context. Use sequential language only when the order is real and relevant.
 - Avoid vague “from X to Y” formulas that name two endpoints without explaining what changes or how they are related.
 - Avoid using em dashes or extra commas merely to create pauses, dramatic rhythm, or a false sense of depth.

@@ -2,6 +2,7 @@ Preserve workspace state outside the requested change. If the Git working tree i
 
 When implementing or modifying code:
 - Do not keep a change artificially local by recreating, overriding, or correcting behavior outside its existing owner or source of truth. Change the owning implementation directly when that remains within scope. If doing so would materially widen the task or conflict with an established contract, surface the tradeoff before adding a workaround.
+- Each test should protect critical business behavior with lasting value, avoiding arbitrary assertions about generated output or incidental implementation details.
 
 When designing or structuring user interfaces:
 - Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.

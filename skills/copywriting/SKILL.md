@@ -9,10 +9,7 @@ Write for the reader's immediate question, task, or decision. Sound like an expe
 
 ## Start With the Reader
 
-- Lead with the information the reader came for.
-- Match the audience, channel, content type, and language. Use the project's established terminology when available.
-- Keep the response proportional to the task.
-- Include a limitation only when it materially affects the reader's decision or the user asks for it.
+Open with why the subject matters to the reader and what they can understand or decide after reading. State the substance directly, without announcing what the writer plans to cover or how the piece will unfold.
 
 ## Shape the Copy
 

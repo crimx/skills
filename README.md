@@ -68,6 +68,10 @@ Keep copy direct, concrete, and grounded. `copywriting` avoids forced contrasts,
 
 It applies automatically when drafting or revising copy.
 
+#### [`gemini-copywriting`](skills/gemini-copywriting/SKILL.md)
+
+A leaner version of `copywriting` for Gemini. Gemini needs fewer constraints and less guidance, so this skill keeps only the rules against rhetorical shortcuts.
+
 #### [`product-launch-copywriting`](skills/product-launch-copywriting/SKILL.md)
 
 Write concise, poetic copy for product launches and brand reveals. `product-launch-copywriting` shapes headlines, narration, hooks, story arcs, and closing lines around one audience and one central promise.

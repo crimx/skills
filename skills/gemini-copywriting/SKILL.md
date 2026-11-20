@@ -1,6 +1,6 @@
 ---
 name: gemini-copywriting
-description: Copywriting style guidelines. Use when drafting, rewriting, or reviewing copy.
+description: Writing and copywriting style guidelines. Use when drafting, rewriting, or reviewing any prose, documentation, UI text, or marketing copy.
 ---
 
 # Copywriting

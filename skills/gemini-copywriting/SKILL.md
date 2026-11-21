@@ -1,9 +1,11 @@
 ---
 name: gemini-copywriting
-description: Writing and copywriting style guidelines. Use when drafting, rewriting, or reviewing any prose, documentation, UI text, or marketing copy.
+description: Copywriting style guidelines and pre-delivery self-check. Use when drafting, rewriting, or reviewing any prose, documentation, UI text, or marketing copy.
 ---
 
-# Copywriting
+# Copywriting Self-Check
+
+Review copy against these rules before delivering.
 
 ## Avoid Rhetorical Shortcuts
 
@@ -14,4 +16,4 @@ description: Writing and copywriting style guidelines. Use when drafting, rewrit
 - Avoid using em dashes or extra commas merely to create pauses, dramatic rhythm, or a false sense of depth.
 - Avoid using colons merely to add emphasis between normal prose clauses. Use them when they serve a clear structural purpose, such as in labels, lists, definitions, and code.
 - Avoid empty positioning language such as "redefine", "empower", "unlock the future", or "build a new paradigm". Replace it with a specific capability, behavior, or result.
-- Avoid overusing generic buzzwords such as "边界" ("boundary") and "稳" ("stable/steady/safe") in Chinese copy; choose specific wording that fits the exact context.
+- Avoid literal cross-language calques and unnatural collocations (such as "边界" from "boundary", "稳" from "stable/solid", or "判断很直接" from "straightforward"); choose specific, idiomatic wording native to the target language.

@@ -1,11 +1,11 @@
 ---
 name: gemini-copywriting
-description: Copywriting style guidelines and pre-delivery self-check. Use when drafting, rewriting, or reviewing any prose, documentation, UI text, or marketing copy.
+description: Copywriting style guidelines for drafting, rewriting, and reviewing prose, documentation, UI text, or marketing copy.
 ---
 
-# Copywriting Self-Check
+# Copywriting Guidelines
 
-Review copy against these rules before delivering.
+Follow these rules directly while drafting or rewriting, composing natively in the target language. For long-form copy, multi-locale updates, or edits after multi-turn discussions, do a quick final pass over the changed text before delivering.
 
 ## Avoid Rhetorical Shortcuts
 
